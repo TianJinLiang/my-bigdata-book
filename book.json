@@ -1,0 +1,24 @@
+{
+  "title": "我的大数据",
+  "description": "巫师是大数据爱好者，期望帮助更多的人快捷的学习大数据知识。",
+  "language": "zh",
+  "plugins": [
+    "disqus",
+    "github",
+    "prism",
+    "-highlight",
+    "splitter",
+    "sitemap"
+  ],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "my bigdata book"
+    },
+    "github": {
+      "url": "https://github.com/maoxiangyi"
+    },
+    "sitemap": {
+        "hostname": "http://zhaoda.net/"
+    }
+  }
+}
